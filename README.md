@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game Project for Learning HTML, CSS and JS
+Snake Game Project for Learning HTML , CSS and JS
